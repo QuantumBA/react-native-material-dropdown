@@ -5,12 +5,12 @@ import {
   View,
   ScrollView,
   Animated,
-  Modal,
   TouchableWithoutFeedback,
   Dimensions,
   Platform,
   ViewPropTypes,
 } from 'react-native';
+import 'Modal' from 'Modal';
 import Ripple from 'react-native-material-ripple';
 import { TextField } from 'react-native-material-textfield';
 
