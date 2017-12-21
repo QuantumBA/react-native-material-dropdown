@@ -10,7 +10,7 @@ import {
   Platform,
   ViewPropTypes,
 } from 'react-native';
-import 'Modal' from 'Modal';
+import Modal from 'Modal';
 import Ripple from 'react-native-material-ripple';
 import { TextField } from 'react-native-material-textfield';
 
